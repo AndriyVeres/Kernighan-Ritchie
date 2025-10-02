@@ -11,7 +11,7 @@ Rust implementations of the excercises from The C Programming Language by Brian 
 | 1-5      | 14   | [Rust](src/1-5.rs)     | Modify the temperature conversion program to print the table in reverse order, that is, from, 300 degrees to 0. |
 | 1-6      | 17   |                        | Verify that expression getchar() != EOF is 0 or 1 |
 | 1-7      | 17   |                        | Write a program to print the value of EOF |
-| 1-8      | 20   |                        | Write a program to count blanks, tabs and newlines |
+| 1-8      | 20   | [Rust](src/1-8.rs)     | Write a program to count blanks, tabs and newlines |
 | 1-9      | 20   |                        | Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank. |
 | 1-10     | 20   |                        | Write a program to copy its input to its output, replacing each tab by \t, each backspace by \b, and each backslash by \\.  This makes tabs and backspaces visible in an unambiguous way. |
 | 1-11     | 21   |                        | How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any? |
