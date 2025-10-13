@@ -13,7 +13,7 @@ Rust implementations of the excercises from The C Programming Language by Brian 
 | 1-7      | 17   | [Rust counterexample](src/1-7.rs) | Write a program to print the value of EOF |
 | 1-8      | 20   | [Rust](src/1-8.rs)     | Write a program to count blanks, tabs and newlines |
 | 1-9      | 20   | [Rust](src/1-9.rs)     | Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank. |
-| 1-10     | 20   |                        | Write a program to copy its input to its output, replacing each tab by \t, each backspace by \b, and each backslash by \\.  This makes tabs and backspaces visible in an unambiguous way. |
+| 1-10     | 20   | [Rust](src/1-10.rs)    | Write a program to copy its input to its output, replacing each tab by \t, each backspace by \b, and each backslash by \\.  This makes tabs and backspaces visible in an unambiguous way. |
 | 1-11     | 21   |                        | How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any? |
 | 1-12     | 21   |                        | Write a program that prints its input one word per line. |
 | 1-13     | 24   |                        | Write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientations is more challenging. |
