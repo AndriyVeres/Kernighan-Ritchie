@@ -17,7 +17,7 @@ Rust implementations of the excercises from The C Programming Language by Brian 
 | 1-11     | 21   |                        | How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any? |
 | 1-12     | 21   | [Rust](src/1-12.rs)    | Write a program that prints its input one word per line. |
 | 1-13     | 24   | [Horizontal, ASCII only](src/1-13.rs)    | Write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientations is more challenging. |
-| 1-14     | 24   |                        | Write a program to print a histogram of the frequencies of different characters in its input. |
+| 1-14     | 24   | [Horizontal](src/1-14.rs)    | Write a program to print a histogram of the frequencies of different characters in its input. |
 | 1-15     | 27   | [Rust](src/1-15.rs)    | Rewrite the temperature conversion program of Section 1.2 to use a function for conversion. |
 | 1-16     | 30   |                        | Revise the main routine of the longest-line program so it will correctly print the lenght of arbitrarily long input lines, and as much as possilbe of the text. |
 | 1-17     | 31   |                        | Write a program to print all input lines that are longer than 80 characters. |
